@@ -8,7 +8,7 @@ Este es mi repositorio del proyecto de GifExpertApp de React
 `yarn dev --port 3000`: Levanta el proyecto y le asigna el puerto 3000  
 `yarn add prop-types`: Instala los prop-types  
 `yarn build`: Genera la carpeta "dist" para que sea instalada la aplicación  
-**Jest**
+**Jest**  
 `yarn add --dev jest`: Instala jest  
 `yarn test`: Ejecuta pruebas jest  
 `yarn add --dev @types/jest`: Instala los tipos de jest para no importarlos  
